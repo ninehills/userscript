@@ -1,0 +1,16 @@
+UserScript Repo
+===============
+
+一些我创建或修改的userscript脚本，详情请打开脚本文件看注释。
+
+
+安装方法
+--------
+
+1. Firefox + GreaseMonkey
+2. Chrome + [Tampermonkey](https://chrome.google.com/webstore/detail/dhdgffkkebhmkfjojejmpbldmpobfkfo)
+
+注：chrome可以直接安装，但Tampermonkey可以实现高级控制，比如自动更新，权限控制，编辑等。
+
+
+
